@@ -26,4 +26,4 @@ Substrate Client (`/client/*` / `sc-*`) is licensed under [GPL v3.0 with a class
 
 ## PR
 
-Done
+Done, Very Good
